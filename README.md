@@ -2,7 +2,7 @@
 Files from YouTube channel where we learn to create a Responsive Website with Fixed Side Navigation
 
 # Starter Files
-These are the starting files used by Carbell Sarfo to create a personal website. You are free to use them. 
+These are the starting files used by [Carbell Sarfo](https://carbellsarfo.netlify.app/) to create a personal website. You are free to use them. 
 
 The provided files contain 
 - An **HTML** file which has a boiler plate and linked to the css and main javascript file
